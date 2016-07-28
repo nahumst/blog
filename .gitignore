@@ -18,5 +18,5 @@
 /tmp
 
 #Ignore all configuration files of sublime
-blog.sublime-project
-blog.sublime-workspace
+*blog.sublime-project*
+*blog.sublime-workspace*
